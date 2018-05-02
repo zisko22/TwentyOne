@@ -1,0 +1,5 @@
+/Users/jeremiahziskovsky/Projects/TwentyOne/TwentyOne/obj/x86/Debug/TwentyOne.csproj.CoreCompileInputs.cache
+/Users/jeremiahziskovsky/Projects/TwentyOne/TwentyOne/bin/Debug/TwentyOne.exe
+/Users/jeremiahziskovsky/Projects/TwentyOne/TwentyOne/bin/Debug/TwentyOne.pdb
+/Users/jeremiahziskovsky/Projects/TwentyOne/TwentyOne/obj/x86/Debug/TwentyOne.exe
+/Users/jeremiahziskovsky/Projects/TwentyOne/TwentyOne/obj/x86/Debug/TwentyOne.pdb
