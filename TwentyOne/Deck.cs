@@ -40,5 +40,13 @@ namespace TwentyOne
                 Cards = TempList;
             }
         }
+
+        public void PrintCards(List<Card> cards)
+        {
+            foreach (var card in cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+        }
     }
 }

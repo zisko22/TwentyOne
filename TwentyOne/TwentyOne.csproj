@@ -41,6 +41,8 @@
     <Compile Include="Player.cs" />
     <Compile Include="Dealer.cs" />
     <Compile Include="IWalkAway.cs" />
+    <Compile Include="TwentyOneDealer.cs" />
+    <Compile Include="TwentyOneRules.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

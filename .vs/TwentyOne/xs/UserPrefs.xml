@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{9B369C97-E1A1-448D-977D-896177A025C4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/TwentyOneRules.cs">
     <Files>
-      <File FileName="TwentyOne/Program.cs" Line="13" Column="13" />
-      <File FileName="TwentyOne/Deck.cs" Line="26" Column="9" />
+      <File FileName="TwentyOne/Program.cs" Line="30" Column="57" />
+      <File FileName="TwentyOne/Deck.cs" Line="49" Column="14" />
       <File FileName="TwentyOne/Card.cs" Line="6" Column="1" />
-      <File FileName="TwentyOne/Game.cs" Line="7" Column="50" />
-      <File FileName="TwentyOne/TwentyOneGame.cs" Line="18" Column="10" />
-      <File FileName="TwentyOne/Player.cs" Line="4" Column="2" />
-      <File FileName="TwentyOne/Dealer.cs" Line="5" Column="10" />
+      <File FileName="TwentyOne/Game.cs" Line="9" Column="57" />
+      <File FileName="TwentyOne/TwentyOneGame.cs" Line="4" Column="2" />
+      <File FileName="TwentyOne/Player.cs" Line="29" Column="29" />
+      <File FileName="TwentyOne/Dealer.cs" Line="13" Column="41" />
       <File FileName="TwentyOne/IWalkAway.cs" Line="6" Column="38" />
+      <File FileName="TwentyOne/TwentyOneDealer.cs" Line="6" Column="44" />
+      <File FileName="TwentyOne/TwentyOneRules.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
