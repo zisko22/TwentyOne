@@ -8,8 +8,8 @@ namespace TwentyOne
 {
     public struct Card
     {
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suits Suit { get; set; }
+        public Faces Face { get; set; }
 
 		public override string ToString()
 		{

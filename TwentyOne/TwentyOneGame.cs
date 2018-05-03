@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 namespace TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway

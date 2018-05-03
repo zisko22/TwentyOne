@@ -16,8 +16,8 @@ namespace TwentyOne
                 for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Face = Convert.ToString((Faces)i);
-                    card.Suit = Convert.ToString((Suits)j);
+                    card.Face = (Faces)i;
+                    card.Suit = (Suits)j;
                     Cards.Add(card);
                 }
             }
