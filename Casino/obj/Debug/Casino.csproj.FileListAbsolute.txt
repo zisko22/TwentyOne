@@ -1,0 +1,5 @@
+/Users/jeremiahziskovsky/Projects/TwentyOne/Casino/obj/Debug/Casino.csproj.CoreCompileInputs.cache
+/Users/jeremiahziskovsky/Projects/TwentyOne/Casino/bin/Debug/Casino.dll
+/Users/jeremiahziskovsky/Projects/TwentyOne/Casino/bin/Debug/Casino.pdb
+/Users/jeremiahziskovsky/Projects/TwentyOne/Casino/obj/Debug/Casino.dll
+/Users/jeremiahziskovsky/Projects/TwentyOne/Casino/obj/Debug/Casino.pdb
